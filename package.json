@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-ejs",
+  "name": "@silesia-corporation/eslint-plugin-ejs",
   "description": "ESLint rules for EJS",
   "version": "0.1.0",
   "devDependencies": {
