@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-ejs",
+  "description": "ESLint rules for EJS",
+  "version": "0.1.0",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "eslint": "^3.19.0",
+    "eslint-ava-rule-tester": "^2.0.2",
+    "nyc": "^10.2.0",
+    "underscore": "^1.8.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava \"test/**/*.js\"",
+    "coverage": "nyc ava"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "ejs"
+  ]
+}
