@@ -11,12 +11,12 @@ module.exports = {
     configs: {
         recommended: {
             rules: {
-                'ejs/no-func-definitions': 1,
-                'ejs/no-global-variables': 1,
-                'ejs/no-string-concatenations': 1,
-                'ejs/no-view-onoff-binding': 1,
-                'ejs/no-unwanted-literals': 1,
-                'ejs/no-variable-declarations': 1
+                '@silesia-corporation/ejs/no-func-definitions': 1,
+                '@silesia-corporation/ejs/no-global-variables': 1,
+                '@silesia-corporation/ejs/no-string-concatenations': 1,
+                '@silesia-corporation/ejs/no-view-onoff-binding': 1,
+                '@silesia-corporation/ejs/no-unwanted-literals': 1,
+                '@silesia-corporation/ejs/no-variable-declarations': 1
             }
         }
     }
